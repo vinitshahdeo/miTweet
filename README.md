@@ -1,4 +1,5 @@
 # miTweet
+![miTweet Logo](https://github.com/vinitshahdeo/miTweet/blob/master/miTweet-logo.png)
 miTweet generates link to your message. Whoever clicks on the link will have the message automatically added to their Twitter status box and they can simply tweet it.
 
 ### Screenshots
