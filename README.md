@@ -22,3 +22,6 @@ Report bugs at vinitshahdeo@gmail.com
 ### Made with ❤ by Vinit Shahdeo
 
 **[Live Demo](http://vinitshahdeo.com/projects/miTweet/)**
+
+
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/miTweet.svg?style=social)](https://twitter.com/intent/tweet?text=miTweet%20by%20@Vinit_Shahdeo:&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FmiTweet)
