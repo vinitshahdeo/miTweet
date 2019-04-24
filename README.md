@@ -1,6 +1,6 @@
 ![miTweet Logo](https://github.com/vinitshahdeo/miTweet/blob/master/miTweet-logo.png)
 
-[![miTweet](https://img.shields.io/badge/mi-Tweet-dodgerblue.svg)](http://vinitshahdeo.com/projects/miTweet/) [![Twitter API](https://img.shields.io/badge/Twitter-API-teal.svg)](https://developer.twitter.com/en/docs.html) [![BITLY](https://img.shields.io/badge/bit.ly-API-crimson.svg)](https://dev.bitly.com/) 
+[![miTweet](https://img.shields.io/badge/mi-Tweet-dodgerblue.svg?logo=twitter&logoColor=white)](http://vinitshahdeo.com/projects/miTweet/) [![BITLY](https://img.shields.io/badge/bit.ly-API-orange.svg?logo=bitly)](https://dev.bitly.com/) [![Twitter API](https://img.shields.io/badge/Twitter-API-teal.svg?logo=twitter&logoColor=white)](https://developer.twitter.com/en/docs.html)
 
 
 <hr>
